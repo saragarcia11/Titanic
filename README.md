@@ -13,4 +13,5 @@ In this repository, the following documents are included:
 
 - Titanic Data Original - the original data prior to any modification
 - Data final.csv - our data after its preparation for analysis
-- Informe Rmarkdown
+- Codigo - Practica 2.Rmd - Original code of analysis from RStudio
+- Informe Rmarkdown - Practica 2.pdf - Rmarkdown report from original code and analysis
