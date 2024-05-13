@@ -15,3 +15,4 @@ In this repository, the following documents are included:
 - Data final.csv - our data after its preparation for analysis
 - Codigo - Practica 2.Rmd - Original code of analysis from RStudio
 - Informe Rmarkdown - Practica 2.pdf - Rmarkdown report from original code and analysis
+- Presentación - Titanic.pdf - brief PowerPoint presentation including the key points of this project
